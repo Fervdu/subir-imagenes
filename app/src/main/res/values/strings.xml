@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sem13</string>
+    <string name="lblTitulo">Registro de Autos</string>
+    <string name="lblMarca">Marca</string>
+    <string name="lblModelo">Modelo</string>
+    <string name="lblPlaca">Placa</string>
+    <string name="lblPrecio">Precio</string>
+    <string name="btnElegir">Elegir</string>
+    <string name="btnRegistrar">Registrar</string>
+    <string name="btnMostrar">Mostrar</string>
+    <string name="btnActualizar">Actualizar</string>
+    <string name="btnEliminar">Eliminar</string>
+    <string name="btnRegresar">regresar</string>
+</resources>
